@@ -1,0 +1,7 @@
+[alias]
+  st = status
+  dc = diff --cached
+  b = branch
+  d = diff
+  cm = commit -m
+  co = checkout
