@@ -6,5 +6,5 @@
   cm = commit -m
   co = checkout
 [user]
-	name = Michael You
-	email = youmichaelc@gmail.com
+  name = Michael You
+  email = youmichaelc@gmail.com
