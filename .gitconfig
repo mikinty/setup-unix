@@ -5,3 +5,6 @@
   d = diff
   cm = commit -m
   co = checkout
+[user]
+	name = Michael You
+	email = youmichaelc@gmail.com
